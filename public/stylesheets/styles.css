@@ -17,10 +17,10 @@ li:hover {
 	background-color: rgb(138, 125, 125);
 }
 li:active {
-	background-color: rgb(37, 34, 34);
+	background-color: lightcoral (37, 34, 34);
 }
 .add {
-	background-color: rgb(27, 39, 14);
+	background-color: lightcoral (27, 39, 14);
 }
 
 .container {
